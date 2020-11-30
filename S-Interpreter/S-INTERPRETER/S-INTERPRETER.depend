@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549692772 source:f:\final interpreter\s-interpreter\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<string>
+	<cstring>
+	<fstream>
+
